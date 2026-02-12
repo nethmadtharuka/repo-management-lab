@@ -1,0 +1,1 @@
+"This repository demonstrates Git version control basics including branching, merging, and conflict resolution." 
